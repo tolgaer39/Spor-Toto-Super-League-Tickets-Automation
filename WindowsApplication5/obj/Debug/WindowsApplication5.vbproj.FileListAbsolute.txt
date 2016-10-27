@@ -1,0 +1,170 @@
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\big mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Big Mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Big Mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Big Mex\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\brknts\Proje\18.12.2012\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\19\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\brknts\Proje\Son\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\brknts\Proje\23\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\27\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Big Mex\Documents\Visual Studio 2012\Projects\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Tolga\Desktop\berkants\proje\28\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Tolga\Desktop\Trakya Üniversitesi\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Tolga\Desktop\Trakya Üniversitesi\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Tolga\Desktop\Trakya Üniversitesi\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form2.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form3.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form4.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form5.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.formLogin.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmAdmin.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Tolga\Desktop\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
